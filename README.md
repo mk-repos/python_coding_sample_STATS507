@@ -1,7 +1,9 @@
 # STATS 507 Coursework Portfolio (Winter 2020)
 
 ミシガン大学 統計学部の **STATS 507**（Data Analysis in Python）の課題を整理したリポジトリです。
+
 **Syllabus:** https://sites.lsa.umich.edu/regier/wp-content/uploads/sites/1349/2024/09/stats507_winter2021_syllabus.pdf
+
 **Term:** Winter 2020
 
 ## 内容（フォルダ構成）
